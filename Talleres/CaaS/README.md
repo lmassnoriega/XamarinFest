@@ -1,5 +1,13 @@
-# Taller: Conversation as a Service
+# Taller: Microsoft Bot Framework
 
-Para este taller, puedes seguir el siguiente tutorial.
+# Preparando el ambiente
 
-Desarrollo de una aplicación <a href="https://github.com/JorgeCupi/XamarinFormsBot">Xamarin Forms y el Bot Framework </a>, el ejercicio fue creado por <a href="https://github.com/JorgeCupiJorge"> Jorge Cupi</a>.
+En este [sitio](https://docs.botframework.com/en-us/downloads/) se debe descargar la plantilla para Visual Studio y el Bot Framework Emulator.
+
+# Crear el Bot
+
+# Publicar el Bot
+
+# Registrar el Bot
+
+# Consumiendo el Bot desde Xamarin
