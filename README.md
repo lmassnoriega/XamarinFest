@@ -1,10 +1,12 @@
 # Contenido técnico para Xamarin Fest
 
-En este repositorio podrás encontrar todos los temas que te permitirán tener más opciones de temas por estudiar y para presentar en tus eventos. Recuerda que la filosofía es que tomes lo que gustes y también te animes a contribuir con algún nuevo tema.
+En este repositorio podrás encontrar todos los temas que te permitirán tener más opciones de módulos por estudiar y para presentar en tus eventos. Recuerda que la filosofía es que tomes lo que gustes y también te animes a contribuir con algún nuevo tema.
 
 Para que la experiencia del evento sea de lo mejor posible recuerda que los participantes deberán llevar todo su entorno de Xamarin perfectamente bien instalado.
 
-[Descarga Xamarin para Windows o para Mac desde aquí](https://www.xamarin.com/download)
+Si aún no has instalado Xamarin en tu computadora te recomendamos ver la [guía de instalación de Xamarin y Visual Studio](http://xamarinchampionship.azurewebsites.net/wp-content/uploads/docs/Guia-instalacion-ambiente-Xamarin.pdf).
+
+Si ya tienes Visual Studio instalado pero sin Xamarin, puedes agregar el complemento con esta [guía de actualización para el ambiente de desarrollo Xamarin](http://xamarinchampionship.azurewebsites.net/wp-content/uploads/docs/ActualizacionXamarin.pdf)
 
 ## Primer ejercicio
 
